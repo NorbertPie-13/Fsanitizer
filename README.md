@@ -87,7 +87,7 @@ time:
  ## Conclusion
  This repo will also provide you with examples of error detection of Address Sanitizer. Test them out, add to them, experiment with your own projects. Do what ever you like with them, but add this to your toolbelt in debugging. Thank you and have a happy memory free program!
 
-<img src="images/captain_planet">
+<img src="images/captain_planet.jpg">
 
 ## References
 http://www.quickmeme.com/Captain-Planet-Approves<br>
