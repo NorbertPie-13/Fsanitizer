@@ -16,7 +16,7 @@ Describe and discuss Address Sanitizer with examples.
 
 ### Supported Systems
 Chart uploaded from AddressSanitizer by google (https://github.com/google/sanitizers/wiki/AddressSanitizer)
-<img src="./images/support_chart"><br>
+<img src="/LPD/Fsanitizer/images/support_chart.PNG"><br>
 
 ### Reporting Errors Supported
 - Use after free
