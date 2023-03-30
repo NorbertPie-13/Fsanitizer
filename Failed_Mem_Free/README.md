@@ -11,6 +11,11 @@
 
 ### Make
 - To compile without Address Sanitizer being used, type ```make``` in the command line.<br>
-<img src="image/Capture.jpg>
+<img src="images/Capture.PNG">
+
+  - Valgrind Output
+  <img src="images/valgrind.PNG"> 
 
 - To compile with Address Sanitizer, use ```make debug``` in the command line.<br>
+  - Address Sanitizer Output
+  <img src="images/address_sanitizer.PNG"> 
